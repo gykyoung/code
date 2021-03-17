@@ -81,7 +81,6 @@ The following items should be installed in your system:
 
     Visit [http://localhost:8080](http://localhost:8080) in your browser.
 
-
 ## Looking for something in particular?
 
 |Spring Boot Configuration | Class or Java property files  |
